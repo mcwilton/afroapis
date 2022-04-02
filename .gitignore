@@ -3,9 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# custom file
+
+dokawkspace/
+docker projects/dokawkspace/
 # C extensions
 *.so
-dokawkspace/
 
 # Distribution / packaging
 .Python
