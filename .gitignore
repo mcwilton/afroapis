@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 dokawkspace/
+
 # Distribution / packaging
 .Python
 build/
